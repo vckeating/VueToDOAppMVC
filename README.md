@@ -17,3 +17,7 @@ To run the app, simple clone this repository, then serve the main directory with
 - No build step is required to run this application, it just works™.
 - The Vue code in this application is very minimal - much of the code in the template is Bootstrap, which is required for a sharp presentation.
 - This application will only run in Modern browsers
+
+## Any further changes made from the original application at https://github.com/danielstern/vue-todomvc.git are for practice by vckeating
+## These changes will be detailed here below as they are made
+- 4/1/2019 added comments to readme file.
